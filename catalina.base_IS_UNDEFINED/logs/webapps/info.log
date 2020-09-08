@@ -1,0 +1,28 @@
+2020-09-06 00:00:00.012 [schedulerFactory_Worker-1] INFO  c.i.o2o.service.impl.ProductSellDailyServiceImpl -Quratz Running!
+2020-09-06 16:15:57.716 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest -Starting ProductSellDailyDaoTest on SC-201807182021 with PID 3268 (started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 16:15:57.722 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest -No active profile set, falling back to default profiles: default
+2020-09-06 16:16:04.306 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest -Started ProductSellDailyDaoTest in 7.007 seconds (JVM running for 8.723)
+2020-09-06 16:21:06.738 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest -Starting ProductSellDailyDaoTest on SC-201807182021 with PID 11768 (started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 16:21:06.739 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest -No active profile set, falling back to default profiles: default
+2020-09-06 16:21:12.450 [main] INFO  com.imooc.o2o.dao.ProductSellDailyDaoTest -Started ProductSellDailyDaoTest in 6.137 seconds (JVM running for 7.596)
+2020-09-06 16:50:24.570 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 12580 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 16:50:24.585 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 16:50:32.729 [main] INFO  com.imooc.o2o.Application -Started Application in 9.026 seconds (JVM running for 10.552)
+2020-09-06 21:25:01.399 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 7160 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 21:25:01.403 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 21:25:07.462 [main] INFO  com.imooc.o2o.Application -Started Application in 6.573 seconds (JVM running for 7.331)
+2020-09-06 21:36:25.858 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 11676 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 21:36:25.867 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 21:36:32.667 [main] INFO  com.imooc.o2o.Application -Started Application in 7.332 seconds (JVM running for 8.289)
+2020-09-06 22:26:25.772 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 14304 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 22:26:25.776 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 22:26:32.443 [main] INFO  com.imooc.o2o.Application -Started Application in 7.185 seconds (JVM running for 8.063)
+2020-09-06 22:35:23.781 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 13916 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 22:35:23.785 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 22:35:29.764 [main] INFO  com.imooc.o2o.Application -Started Application in 6.49 seconds (JVM running for 7.299)
+2020-09-06 22:47:05.435 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 13856 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 22:47:05.443 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 22:47:12.567 [main] INFO  com.imooc.o2o.Application -Started Application in 7.666 seconds (JVM running for 8.624)
+2020-09-06 23:36:19.210 [main] INFO  com.imooc.o2o.Application -Starting Application on SC-201807182021 with PID 9792 (D:\Javaproject\eclipse-workspace-2020\o2o2.0\target\classes started by Administrator in D:\Javaproject\eclipse-workspace-2020\o2o2.0)
+2020-09-06 23:36:19.214 [main] INFO  com.imooc.o2o.Application -No active profile set, falling back to default profiles: default
+2020-09-06 23:36:26.280 [main] INFO  com.imooc.o2o.Application -Started Application in 7.596 seconds (JVM running for 8.437)
